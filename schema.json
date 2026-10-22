@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NZ immigrant founders dataset",
+  "type": "object",
+  "required": ["meta", "entries"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["title", "version", "updated", "count"],
+      "properties": {
+        "title": {"type": "string"},
+        "version": {"type": "string"},
+        "updated": {"type": "string", "format": "date"},
+        "count": {"type": "integer", "minimum": 0}
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id", "person", "birth_place", "birth_country", "birth_year",
+          "arrival_year", "company", "company_founded_year", "sector",
+          "company_status", "confidence", "evidence", "news", "notes"
+        ],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+          "person": {"type": "string", "minLength": 1},
+          "co_founders": {"type": "array", "items": {"type": "string"}},
+          "birth_place": {"type": "string", "minLength": 1},
+          "birth_country": {"type": "string", "minLength": 1},
+          "birth_year": {"type": ["integer", "null"]},
+          "arrival_year": {"type": ["integer", "null"]},
+          "arrival_note": {"type": "string"},
+          "company": {"type": "string", "minLength": 1},
+          "company_founded_year": {"type": ["integer", "null"]},
+          "sector": {"type": "string", "minLength": 1},
+          "company_status": {"enum": ["listed", "private", "sold", "defunct"]},
+          "confidence": {"enum": ["high", "medium"]},
+          "evidence": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["claim", "source", "url"],
+              "properties": {
+                "claim": {"type": "string", "minLength": 10},
+                "source": {"type": "string", "minLength": 1},
+                "date": {"type": ["string", "null"]},
+                "url": {"type": "string", "pattern": "^https?://"}
+              }
+            }
+          },
+          "news": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["outlet", "title", "url"],
+              "properties": {
+                "outlet": {"type": "string", "minLength": 1},
+                "date": {"type": ["string", "null"]},
+                "title": {"type": "string", "minLength": 5},
+                "url": {"type": "string", "pattern": "^https?://"}
+              }
+            }
+          },
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}

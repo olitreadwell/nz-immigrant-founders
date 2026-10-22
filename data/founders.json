@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "title": "Immigrant-founded New Zealand companies",
+    "version": "1.0.0",
+    "updated": "2026-10-22",
+    "count": 14
+  },
+  "entries": [
+    {
+      "id": "fletcher-james",
+      "person": "James Fletcher",
+      "co_founders": [],
+      "birth_place": "Kirkintilloch, Scotland",
+      "birth_country": "United Kingdom",
+      "birth_year": 1886,
+      "arrival_year": 1908,
+      "arrival_note": "Arrived at Port Chalmers in October 1908 with twelve pounds.",
+      "company": "Fletcher Construction",
+      "company_founded_year": 1909,
+      "sector": "construction",
+      "company_status": "listed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born 29 March 1886 at Kirkintilloch; sailed from Glasgow and arrived at Port Chalmers in October 1908.",
+          "source": "Newswire",
+          "date": "2026-07-09",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        },
+        {
+          "claim": "First contract signed 1 June 1909; the firm became Fletcher Brothers in 1912.",
+          "source": "Newswire",
+          "date": "2026-07-09",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Newswire",
+          "date": "2026-07-09",
+          "title": "James Fletcher, the Scottish carpenter who built twentieth-century New Zealand",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        }
+      ],
+      "notes": "Fletcher Building is the listed successor. The company built about half of the first Labour government's state houses."
+    },
+    {
+      "id": "hallenstein-bendix",
+      "person": "Bendix Hallenstein",
+      "co_founders": [],
+      "birth_place": "Brunswick, Germany",
+      "birth_country": "Germany",
+      "birth_year": 1835,
+      "arrival_year": 1863,
+      "arrival_note": "Emigrated to Victoria in 1857 and crossed to New Zealand in 1863.",
+      "company": "Hallensteins",
+      "company_founded_year": 1876,
+      "sector": "retail",
+      "company_status": "listed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born and educated in Brunswick, Germany. Emigrated to Victoria in 1857 and crossed to New Zealand in 1863.",
+          "source": "Dictionary of New Zealand Biography (1966), indexed by Luke Howison",
+          "url": "https://dict-bio.howison.co.nz/person/bendix-hallenstein"
+        },
+        {
+          "claim": "Established his first clothing and department store at The Octagon, Dunedin in 1876.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hallensteins"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Otago Daily Times",
+          "date": "2023-11-04",
+          "title": "Family legacy memorialised",
+          "url": "https://www.odt.co.nz/news/dunedin/family-legacy-memorialised-v1vrzqv0"
+        },
+        {
+          "outlet": "Otago Daily Times",
+          "date": null,
+          "title": "Hallenstein postcards from the past",
+          "url": "https://www.odt.co.nz/news/dunedin/hallenstein-postcards-past"
+        }
+      ],
+      "notes": "Also founded the D.I.C. department store in Dunedin in 1884."
+    },
+    {
+      "id": "laidlaw-robert",
+      "person": "Robert Laidlaw",
+      "co_founders": [],
+      "birth_place": "Scotland",
+      "birth_country": "United Kingdom",
+      "birth_year": 1885,
+      "arrival_year": null,
+      "arrival_note": "His parents emigrated to Dunedin when he was a young boy.",
+      "company": "Farmers Trading Company",
+      "company_founded_year": 1909,
+      "sector": "retail",
+      "company_status": "private",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "Born in Scotland. His parents emigrated to Dunedin, New Zealand, when he was a young boy.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robert_Laidlaw"
+        }
+      ],
+      "news": [],
+      "notes": "No news article was located that covers his immigrant background. Included for completeness; treat as the weakest entry."
+    },
+    {
+      "id": "babich-josip",
+      "person": "Josip Babich",
+      "co_founders": [],
+      "birth_place": "Runović, Dalmatia (then Austria-Hungary, now Croatia)",
+      "birth_country": "Croatia",
+      "birth_year": 1895,
+      "arrival_year": 1910,
+      "arrival_note": "Emigrated at age 14 to join his three brothers digging kauri gum.",
+      "company": "Babich Wines",
+      "company_founded_year": 1916,
+      "sector": "wine",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in Dalmatia in 1895. At 14 he emigrated to New Zealand to join his brothers on the kauri gum fields.",
+          "source": "Babich Wines, Our Legacy",
+          "url": "https://www.babichwines.com/about/our-legacy/"
+        },
+        {
+          "claim": "Made his first New Zealand wine in 1916 under the name Babich Brothers.",
+          "source": "Babich Wines, Our Legacy",
+          "url": "https://www.babichwines.com/about/our-legacy/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald",
+          "date": "2015-03-27",
+          "title": "Auckland's 175th anniversary: The Dalmatians and their wine",
+          "url": "https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "selak-marino",
+      "person": "Marino Selak",
+      "co_founders": [
+        "Mate Selak"
+      ],
+      "birth_place": "Croatia",
+      "birth_country": "Croatia",
+      "birth_year": null,
+      "arrival_year": 1906,
+      "arrival_note": "Arrived in New Zealand from Croatia in 1906.",
+      "company": "Selaks",
+      "company_founded_year": 1934,
+      "sector": "wine",
+      "company_status": "sold",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Arrived in New Zealand from his native Croatia in 1906. In 1934 he and his nephew Mate started making wine.",
+          "source": "Selaks, Our Story",
+          "url": "https://selaks.co.nz/pages/about-us"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald (Hawke's Bay Today)",
+          "date": "2024-08-30",
+          "title": "Selaks, a 90-year Hawke's Bay winemaking institution, says the new wine trend is low-alcohol",
+          "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/selaks-a-90-year-hawkes-bay-winemaking-institution-says-the-new-wine-trend-is-low-alcohol/EIBPHRYEPVEAHAW2X3IM76DWM4/"
+        }
+      ],
+      "notes": "Brand now sits within a larger wine group."
+    },
+    {
+      "id": "nobilo-nikola",
+      "person": "Nikola Nobilo",
+      "co_founders": [],
+      "birth_place": "Lumbarda, Korčula, Croatia",
+      "birth_country": "Croatia",
+      "birth_year": 1913,
+      "arrival_year": 1937,
+      "arrival_note": "Sent by his uncle ahead of the Second World War. Settled at Huapai, west Auckland.",
+      "company": "Nobilo Wines",
+      "company_founded_year": 1943,
+      "sector": "wine",
+      "company_status": "sold",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in present-day Croatia in 1913, in Lumbarda on the island of Korčula. Arrived in New Zealand in 1937 and began planting grapes at Huapai in 1943.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nikola_Nobilo"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "The Spinoff",
+          "date": "2018-10-23",
+          "title": "Sour grapes: Nobilo wine family feud over a squandered fortune",
+          "url": "https://thespinoff.co.nz/business/23-10-2018/sour-grapes-nobilo-wine-family-feud-over-a-squandered-fortune"
+        },
+        {
+          "outlet": "NZ Herald",
+          "date": "2007-08-30",
+          "title": "Nobilo's life centred on family and passion for making wine",
+          "url": "https://www.nzherald.co.nz/nz/nobilos-life-centred-on-family-and-passion-for-making-wine/WLQZN7WJB53ET54ZGPFP73ORCY/"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "yukich-ivan",
+      "person": "Ivan Yukich",
+      "co_founders": [
+        "Mate Yukich",
+        "Frank Yukich"
+      ],
+      "birth_place": "Croatia",
+      "birth_country": "Croatia",
+      "birth_year": null,
+      "arrival_year": null,
+      "arrival_note": "Described in local histories as a Croatian immigrant. Arrival year not established.",
+      "company": "Montana Wines",
+      "company_founded_year": 1961,
+      "sector": "wine",
+      "company_status": "sold",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "Croatian immigrant Ivan Yukich planted his first grape vines in West Auckland in 1934. His sons Mate and Frank established Montana Wines in 1961.",
+          "source": "Mangatangi Historical Group",
+          "url": "https://mangatangihistorical.co.nz/montana-wines/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald",
+          "date": "2015-03-27",
+          "title": "Auckland's 175th anniversary: The Dalmatians and their wine",
+          "url": "https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/"
+        }
+      ],
+      "notes": "Ivan planted the vineyard. His sons founded the company. The brand is now Brancott Estate under Pernod Ricard."
+    },
+    {
+      "id": "delegat-nikola",
+      "person": "Nikola Delegat",
+      "co_founders": [
+        "Vidosava Delegat"
+      ],
+      "birth_place": "Croatia (then Yugoslavia)",
+      "birth_country": "Croatia",
+      "birth_year": null,
+      "arrival_year": 1938,
+      "arrival_note": "Nikola arrived from Yugoslavia in 1938. Vidosava arrived the same year with her parents.",
+      "company": "Delegat",
+      "company_founded_year": 1947,
+      "sector": "wine",
+      "company_status": "listed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Nikola came to New Zealand from former Yugoslavia in 1938. By 1947 the couple had saved enough to buy land for a vineyard and winery in Henderson.",
+          "source": "New Zealand Winegrower magazine",
+          "date": "2022-08-02",
+          "url": "https://www.nzwine.com/en/media/our-people/jim-and-rosemari-delegat/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "New Zealand Winegrower",
+          "date": "2022-08-02",
+          "title": "Jim and Rosemari Delegat: Industry architects",
+          "url": "https://www.nzwine.com/en/media/our-people/jim-and-rosemari-delegat/"
+        },
+        {
+          "outlet": "Forbes Asia",
+          "date": "2016-01-07",
+          "title": "Delegat Group: The family behind rising Oyster Bay wine label",
+          "url": "https://www.forbes.com/sites/forbesasia/2016/01/07/delegat-group-the-family-behind-rising-oyster-bay-wine-label/"
+        }
+      ],
+      "notes": "Delegat Group listed on the NZX in 2006. Oyster Bay sells about 3.7 million cases a year."
+    },
+    {
+      "id": "giesen-brothers",
+      "person": "Theo, Alex and Marcel Giesen",
+      "co_founders": [],
+      "birth_place": "Germany",
+      "birth_country": "Germany",
+      "birth_year": null,
+      "arrival_year": 1979,
+      "arrival_note": "The three brothers arrived from Germany in 1979.",
+      "company": "Giesen",
+      "company_founded_year": 1981,
+      "sector": "wine",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Three brothers set off from Germany and reached New Zealand in 1979. Theo and Alex bought land and planted a vineyard in 1981; Marcel joined after winemaking school.",
+          "source": "Giesen Wines, History",
+          "url": "https://giesen.co.nz/blogs/our-stories/our-story"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NBR",
+          "date": null,
+          "title": "Featured rich listers: Giesen family",
+          "url": "https://www.nbr.co.nz/nbr-rich-list/featured-rich-listers-giesen-family/"
+        },
+        {
+          "outlet": "Shanken News Daily",
+          "date": "2026-07-15",
+          "title": "New Zealand's Giesen showing rapid gains in non-alc wine segment",
+          "url": "https://www.shankennewsdaily.com/2026/07/15/40231/new-zealands-giesen-showing-rapid-gains-in-non-alc-wine-segment/"
+        }
+      ],
+      "notes": "First vintage 1984."
+    },
+    {
+      "id": "griffin-john",
+      "person": "John Griffin",
+      "co_founders": [],
+      "birth_place": "Godshill, Isle of Wight, England",
+      "birth_country": "United Kingdom",
+      "birth_year": 1812,
+      "arrival_year": 1854,
+      "arrival_note": "Sailed on the Ashmore with his family and settled in Nelson.",
+      "company": "Griffin's",
+      "company_founded_year": 1864,
+      "sector": "food",
+      "company_status": "sold",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in 1812 in the village of Godshill on the Isle of Wight. In 1854 he and his family sailed for New Zealand and settled in Nelson.",
+          "source": "The Press",
+          "date": "2025-08-15",
+          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
+        },
+        {
+          "claim": "The flour and cocoa mill opened for business in Alton Street, Nelson in 1864.",
+          "source": "Griffin's, 150 Years pictorial timeline (Scoop)",
+          "url": "https://img.scoop.co.nz/media/pdfs/1405/150_Years_of_Griffins__Pictorial_Timeline.pdf"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "The Press",
+          "date": "2025-08-15",
+          "title": "Our Kiwi Home: Sweet success - the family behind Griffin's biscuits",
+          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "whittaker-james-henry",
+      "person": "James Henry Whittaker",
+      "co_founders": [],
+      "birth_place": "Manchester, England",
+      "birth_country": "United Kingdom",
+      "birth_year": 1868,
+      "arrival_year": 1890,
+      "arrival_note": "Left London on the Valetta and settled in Christchurch.",
+      "company": "Whittaker's",
+      "company_founded_year": 1896,
+      "sector": "food",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in Manchester, England in 1868. He and his wife left London on the Valetta in 1890 and settled in Christchurch, where he began making chocolate.",
+          "source": "Friends of Karori Cemetery",
+          "date": "2024-09-11",
+          "url": "https://friendsofkaroricemetery.co.nz/james-henry-whittaker/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Crumbwire",
+          "date": null,
+          "title": "125 years of Whittaker's chocolate: looking back, moving forward",
+          "url": "https://crumbwire.com/features/125-years-of-whittakers-chocolate-looking-back-moving-forward/"
+        }
+      ],
+      "notes": "Whittaker's is still family-owned."
+    },
+    {
+      "id": "caughey-smith",
+      "person": "Andrew Clarke Caughey",
+      "co_founders": [
+        "Marianne Smith",
+        "William Henry Smith"
+      ],
+      "birth_place": "Portaferry, County Down, Ireland",
+      "birth_country": "Ireland",
+      "birth_year": 1849,
+      "arrival_year": 1879,
+      "arrival_note": "Emigrated to New Zealand in 1879 for health reasons.",
+      "company": "Smith & Caughey's",
+      "company_founded_year": 1880,
+      "sector": "retail",
+      "company_status": "defunct",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born at Portaferry, Co. Down, Ireland in 1849. Decided to emigrate to New Zealand in 1879 and, with his brother-in-law W. H. Smith, founded Smith and Caughey.",
+          "source": "A Dictionary of Methodism in Britain and Ireland",
+          "url": "https://dmbi.online/index.php?do=app.entry&id=557"
+        },
+        {
+          "claim": "Established in 1880 by Ulster-born Marianne Smith as a drapers and millinery shop.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Smith_%26_Caughey%27s"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald (archive reprint)",
+          "date": null,
+          "title": "From the archives: the history behind Smith & Caughey's",
+          "url": "https://nz.nda.news/smith-and-caughey-st_590649/news/from-the-archives-the-history-behind-smith-amp-caugheys-sn_5870409/"
+        },
+        {
+          "outlet": "Local Matters",
+          "date": null,
+          "title": "Smith Caughey connection",
+          "url": "https://www.localmatters.co.nz/opinion/smith-caughey-connection/"
+        }
+      ],
+      "notes": "Store closed in June 2025. Sources differ on which family member is credited as founder; all named founders were born in Ireland."
+    },
+    {
+      "id": "lee-shama-sukul",
+      "person": "Shama Sukul Lee",
+      "co_founders": [],
+      "birth_place": "Fiji",
+      "birth_country": "Fiji",
+      "birth_year": null,
+      "arrival_year": null,
+      "arrival_note": "Won a scholarship to the University of Auckland and moved to New Zealand to study.",
+      "company": "Sunfed",
+      "company_founded_year": 2015,
+      "sector": "foodtech",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in Fiji. Won a scholarship to the University of Auckland to study computer science and mathematics.",
+          "source": "BusinessDesk",
+          "url": "https://www.businessdesk.co.nz/the-life/my-net-worth-shama-sukul-lee-founder-and-ceo-sunfed/XSOHI74DKVPVBAKXU4AGCRJRSY/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "BusinessDesk",
+          "date": null,
+          "title": "My Net Worth: Shama Sukul Lee, founder and CEO, Sunfed",
+          "url": "https://www.businessdesk.co.nz/the-life/my-net-worth-shama-sukul-lee-founder-and-ceo-sunfed/XSOHI74DKVPVBAKXU4AGCRJRSY/"
+        }
+      ],
+      "notes": "Raised $10 million from Blackbird, K1W1 and the NZ Venture Investment Fund."
+    },
+    {
+      "id": "wink-jeroen",
+      "person": "Jeroen Wink",
+      "co_founders": [
+        "Stefan Powell",
+        "James Powell",
+        "Robert Werner",
+        "Tobias Knop"
+      ],
+      "birth_place": "Netherlands",
+      "birth_country": "Netherlands",
+      "birth_year": null,
+      "arrival_year": null,
+      "arrival_note": "Came through Delft University of Technology. The founding team brought TU Delft expertise to New Zealand.",
+      "company": "Dawn Aerospace",
+      "company_founded_year": 2017,
+      "sector": "aerospace",
+      "company_status": "private",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "Founded in 2017 by Stefan Powell, Jeroen Wink, James Powell, Robert Werner and Tobias Knop, with strong roots at Delft University of Technology.",
+          "source": "Dawn Aerospace, About",
+          "url": "https://www.dawnaerospace.com/about"
+        },
+        {
+          "claim": "Dawn grew out of Delft's student rocket programme.",
+          "source": "TU Delft",
+          "url": "https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/delfts-rocket-dreamers-building-reusable-spaceflight"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "BusinessDesk",
+          "date": null,
+          "title": "Dawn Aerospace's Stefan Powell wins PM Space Prize",
+          "url": "https://businessdesk.co.nz/article/news-in-brief/dawn-aerospaces-stefan-powell-wins-pm-space-prize"
+        },
+        {
+          "outlet": "Dawn Aerospace",
+          "date": null,
+          "title": "Dawn Aerospace closes US$25 million Series B",
+          "url": "https://www.dawnaerospace.com/latest-news/dawn-aerospace-closes-us25-million-series-b"
+        }
+      ],
+      "notes": "Mixed founding team. Wink is Dutch; Powell is New Zealand-born. Recorded because at least one founder was born overseas."
+    }
+  ]
+}
