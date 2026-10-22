@@ -4,7 +4,7 @@ A verified dataset of New Zealand companies founded by people who were born over
 
 Every entry records where the founder was born, when they arrived, what they founded, and links to evidence and news coverage.
 
-**14 entries, 19 news links. Last verified 2026-10-22.**
+**19 entries, 27 news links. Last verified 2026-10-22.**
 
 ## The rule
 
@@ -20,37 +20,70 @@ Being the New Zealand-born child of immigrants does not count. That rules out so
 
 | Founder | Born | Arrived | Company | Founded | News |
 | --- | --- | --- | --- | --- | --- |
-| James Fletcher | Kirkintilloch, Scotland, 1886 | 1908 | Fletcher Construction | 1909 | [1](#fletcher-james) |
+| John Kirkcaldie | Fifeshire, Scotland, 1838 | 1861 | Kirkcaldie & Stains | 1863 | [1](#kirkcaldie-john) |
+| John Griffin | Godshill, Isle of Wight, England, 1812 | 1854 | Griffin's | 1864 | [1](#griffin-john) |
+| Robert Hannah | Ballymoney, County Antrim, Ireland, 1845 | 1866 | Hannahs | 1868 | [2](#hannah-robert) |
 | Bendix Hallenstein | Brunswick, Germany, 1835 | 1863 | Hallensteins | 1876 | [2](#hallenstein-bendix) |
+| James Speight | Wakefield, Yorkshire, England, 1834 | not established | Speight's | 1876 | [1](#speight-james) |
+| Andrew Clarke Caughey | Portaferry, County Down, Ireland, 1849 | 1879 | Smith & Caughey's | 1880 | [2](#caughey-smith) |
+| Charles Todd | Peebles, Scotland, 1868 | not established | Todd Corporation | 1885 | [2](#todd-charles) |
+| James Henry Whittaker | Manchester, England, 1868 | 1890 | Whittaker's | 1896 | [1](#whittaker-james-henry) |
+| James Fletcher | Kirkintilloch, Scotland, 1886 | 1908 | Fletcher Construction | 1909 | [1](#fletcher-james) |
 | Robert Laidlaw | Scotland, 1885 | not established | Farmers Trading Company | 1909 | 0 |
 | Josip Babich | Runović, Dalmatia (then Austria-Hungary, now Croatia), 1895 | 1910 | Babich Wines | 1916 | [1](#babich-josip) |
 | Marino Selak | Croatia | 1906 | Selaks | 1934 | [1](#selak-marino) |
 | Nikola Nobilo | Lumbarda, Korčula, Croatia, 1913 | 1937 | Nobilo Wines | 1943 | [2](#nobilo-nikola) |
-| Ivan Yukich | Croatia | not established | Montana Wines | 1961 | [1](#yukich-ivan) |
 | Nikola Delegat | Croatia (then Yugoslavia) | 1938 | Delegat | 1947 | [2](#delegat-nikola) |
+| Ivan Yukich | Croatia | not established | Montana Wines | 1961 | [1](#yukich-ivan) |
 | Theo, Alex and Marcel Giesen | Germany | 1979 | Giesen | 1981 | [2](#giesen-brothers) |
-| John Griffin | Godshill, Isle of Wight, England, 1812 | 1854 | Griffin's | 1864 | [1](#griffin-john) |
-| James Henry Whittaker | Manchester, England, 1868 | 1890 | Whittaker's | 1896 | [1](#whittaker-james-henry) |
-| Andrew Clarke Caughey | Portaferry, County Down, Ireland, 1849 | 1879 | Smith & Caughey's | 1880 | [2](#caughey-smith) |
+| Ralph Highnam | England | not established | Volpara Health | 2009 | [2](#highnam-ralph) |
 | Shama Sukul Lee | Fiji | not established | Sunfed | 2015 | [1](#lee-shama-sukul) |
 | Jeroen Wink | Netherlands | not established | Dawn Aerospace | 2017 | [2](#wink-jeroen) |
 
 ## Sources by entry
 
-### James Fletcher: Fletcher Construction
+### John Kirkcaldie: Kirkcaldie & Stains
 
-Born: Kirkintilloch, Scotland. Arrived: Arrived at Port Chalmers in October 1908 with twelve pounds..
+Born: Fifeshire, Scotland. Arrived: Emigrated to Australia in 1861, met Robert Stains in Sydney, and opened the Wellington store in 1863..
+Co-founders: Robert Stains.
 
 News:
-- Newswire, 2026-07-09: [James Fletcher, the Scottish carpenter who built twentieth-century New Zealand](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
+- RNZ, 2016-01-16: [Wellington icon closes after 150 years](https://www.rnz.co.nz/news/business/294210/wellington-icon-closes-after-150-years)
 
 Evidence:
-- Newswire, 2026-07-09: [Born 29 March 1886 at Kirkintilloch; sailed from Glasgow and arrived at Port Chalmers in October 1908.](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
-- Newswire, 2026-07-09: [First contract signed 1 June 1909; the firm became Fletcher Brothers in 1912.](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
+- Genealogy Investigations, 2022-06-11: [Born in 1838 in Fifeshire, Scotland. In 1861 he emigrated to Australia, where he met Englishman Robert Stains in Sydney. They opened the first store in Wellington in 1863.](https://genealogyinvestigations.co.nz/blog/farewell-to-a-wellington-icon)
 
-Note: Fletcher Building is the listed successor. The company built about half of the first Labour government's state houses.
+Note: Robert Stains was born in England. The store closed in January 2016.
 
-<a id="fletcher-james"></a>
+<a id="kirkcaldie-john"></a>
+
+### John Griffin: Griffin's
+
+Born: Godshill, Isle of Wight, England. Arrived: Sailed on the Ashmore with his family and settled in Nelson..
+
+News:
+- The Press, 2025-08-15: [Our Kiwi Home: Sweet success - the family behind Griffin's biscuits](https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits)
+
+Evidence:
+- The Press, 2025-08-15: [Born in 1812 in the village of Godshill on the Isle of Wight. In 1854 he and his family sailed for New Zealand and settled in Nelson.](https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits)
+- Griffin's, 150 Years pictorial timeline (Scoop): [The flour and cocoa mill opened for business in Alton Street, Nelson in 1864.](https://img.scoop.co.nz/media/pdfs/1405/150_Years_of_Griffins__Pictorial_Timeline.pdf)
+
+<a id="griffin-john"></a>
+
+### Robert Hannah: Hannahs
+
+Born: Ballymoney, County Antrim, Ireland. Arrived: Emigrated to Australia in 1863 and had moved to New Zealand by 1866..
+
+News:
+- Fashionz, 2018-02-12: [Hannahs celebrates 150 years in business](https://www.fashionz.co.nz/hannahs-celebrates-150-years-business/)
+- NZ Business, 2018-01-31: [Hannahs celebrates 150 years](https://nzbusiness.co.nz/business/news/hannahs-celebrates-150-years)
+
+Evidence:
+- Ballymoney Museum / Ballymoney Ancestry: [Born 10 September 1845 on the Hanna family farm near Ballymoney. Emigrated to Australia in 1863 and had moved to New Zealand by 1866. Opened his first boot shop at Charleston in January 1868.](http://www.ballymoneyancestry.com/robert-hannah.aspx)
+
+Note: The family record spells the name Hanna. The business traded as Robert Hannah and Company.
+
+<a id="hannah-robert"></a>
 
 ### Bendix Hallenstein: Hallensteins
 
@@ -67,6 +100,84 @@ Evidence:
 Note: Also founded the D.I.C. department store in Dunedin in 1884.
 
 <a id="hallenstein-bendix"></a>
+
+### James Speight: Speight's
+
+Born: Wakefield, Yorkshire, England. Arrived: Arrival year not established. He worked at Wellpark Brewery in Dunedin before 1876..
+Co-founders: Charles Greenslade, William Dawson.
+
+News:
+- Inside Retail, 2026-05-25: [Kiwi brewing icon Speight's marks 150 years in business](https://insideretail.co.nz/2026/05/25/kiwi-brewing-icon-speights-marks-150-years-in-business/)
+
+Evidence:
+- History of Aotearoa New Zealand Podcast, episode 88 transcript: [James Speight was born in Wakefield, Yorkshire in 1834. Charles Greenslade was born in 1843 in Devon, England. William Dawson was born in 1852 in Aberdeen, Scotland.](https://historyaotearoa.com/wp-content/uploads/2022/06/episode-88.pdf)
+- History of Aotearoa New Zealand Podcast, episode 88 transcript: [The founders left Wellpark Brewery and leased the Rattray Street site from 1 May 1876.](https://historyaotearoa.com/wp-content/uploads/2022/06/episode-88.pdf)
+
+Note: All three founders were born in Britain. Speight died in 1887, aged 53.
+
+<a id="speight-james"></a>
+
+### Andrew Clarke Caughey: Smith & Caughey's
+
+Born: Portaferry, County Down, Ireland. Arrived: Emigrated to New Zealand in 1879 for health reasons..
+Co-founders: Marianne Smith, William Henry Smith.
+
+News:
+- NZ Herald (archive reprint): [From the archives: the history behind Smith & Caughey's](https://nz.nda.news/smith-and-caughey-st_590649/news/from-the-archives-the-history-behind-smith-amp-caugheys-sn_5870409/)
+- Local Matters: [Smith Caughey connection](https://www.localmatters.co.nz/opinion/smith-caughey-connection/)
+
+Evidence:
+- A Dictionary of Methodism in Britain and Ireland: [Born at Portaferry, Co. Down, Ireland in 1849. Decided to emigrate to New Zealand in 1879 and, with his brother-in-law W. H. Smith, founded Smith and Caughey.](https://dmbi.online/index.php?do=app.entry&id=557)
+- Wikipedia: [Established in 1880 by Ulster-born Marianne Smith as a drapers and millinery shop.](https://en.wikipedia.org/wiki/Smith_%26_Caughey%27s)
+
+Note: Store closed in June 2025. Sources differ on which family member is credited as founder; all named founders were born in Ireland.
+
+<a id="caughey-smith"></a>
+
+### Charles Todd: Todd Corporation
+
+Born: Peebles, Scotland. Arrived: Described as a Scottish immigrant. Arrival year not established..
+
+News:
+- NBR, 2025-06-23: [Featured Rich Listers: Todd family](https://www.nbr.co.nz/rich-list-2026/featured-rich-listers-todd-family/)
+- NZ Herald: [Inside the Todd empire](https://www.nzherald.co.nz/business/companies/agribusiness/inside-the-todd-empire/ZZELW2JLG3ZCZ2RHXGF5GLD2UY/)
+
+Evidence:
+- Wikipedia: [Todd began in 1885 when Scottish immigrant Charles Todd opened a fellmongery and wool scouring business in Heriot, Central Otago.](https://en.wikipedia.org/wiki/Todd_Corporation)
+- Biographies.net: [Born 1868 at Peebles, died 1942 at Wellington.](https://www.biographies.net/biography/charles-todd/m/0gg7ntw)
+
+Note: Todd is one of New Zealand's largest private companies.
+
+<a id="todd-charles"></a>
+
+### James Henry Whittaker: Whittaker's
+
+Born: Manchester, England. Arrived: Left London on the Valetta and settled in Christchurch..
+
+News:
+- Crumbwire: [125 years of Whittaker's chocolate: looking back, moving forward](https://crumbwire.com/features/125-years-of-whittakers-chocolate-looking-back-moving-forward/)
+
+Evidence:
+- Friends of Karori Cemetery, 2024-09-11: [Born in Manchester, England in 1868. He and his wife left London on the Valetta in 1890 and settled in Christchurch, where he began making chocolate.](https://friendsofkaroricemetery.co.nz/james-henry-whittaker/)
+
+Note: Whittaker's is still family-owned.
+
+<a id="whittaker-james-henry"></a>
+
+### James Fletcher: Fletcher Construction
+
+Born: Kirkintilloch, Scotland. Arrived: Arrived at Port Chalmers in October 1908 with twelve pounds..
+
+News:
+- Newswire, 2026-07-09: [James Fletcher, the Scottish carpenter who built twentieth-century New Zealand](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
+
+Evidence:
+- Newswire, 2026-07-09: [Born 29 March 1886 at Kirkintilloch; sailed from Glasgow and arrived at Port Chalmers in October 1908.](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
+- Newswire, 2026-07-09: [First contract signed 1 June 1909; the firm became Fletcher Brothers in 1912.](https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/)
+
+Note: Fletcher Building is the listed successor. The company built about half of the first Labour government's state houses.
+
+<a id="fletcher-james"></a>
 
 ### Robert Laidlaw: Farmers Trading Company
 
@@ -122,21 +233,6 @@ Evidence:
 
 <a id="nobilo-nikola"></a>
 
-### Ivan Yukich: Montana Wines
-
-Born: Croatia. Arrived: Described in local histories as a Croatian immigrant. Arrival year not established..
-Co-founders: Mate Yukich, Frank Yukich.
-
-News:
-- NZ Herald, 2015-03-27: [Auckland's 175th anniversary: The Dalmatians and their wine](https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/)
-
-Evidence:
-- Mangatangi Historical Group: [Croatian immigrant Ivan Yukich planted his first grape vines in West Auckland in 1934. His sons Mate and Frank established Montana Wines in 1961.](https://mangatangihistorical.co.nz/montana-wines/)
-
-Note: Ivan planted the vineyard. His sons founded the company. The brand is now Brancott Estate under Pernod Ricard.
-
-<a id="yukich-ivan"></a>
-
 ### Nikola Delegat: Delegat
 
 Born: Croatia (then Yugoslavia). Arrived: Nikola arrived from Yugoslavia in 1938. Vidosava arrived the same year with her parents..
@@ -153,6 +249,21 @@ Note: Delegat Group listed on the NZX in 2006. Oyster Bay sells about 3.7 millio
 
 <a id="delegat-nikola"></a>
 
+### Ivan Yukich: Montana Wines
+
+Born: Croatia. Arrived: Described in local histories as a Croatian immigrant. Arrival year not established..
+Co-founders: Mate Yukich, Frank Yukich.
+
+News:
+- NZ Herald, 2015-03-27: [Auckland's 175th anniversary: The Dalmatians and their wine](https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/)
+
+Evidence:
+- Mangatangi Historical Group: [Croatian immigrant Ivan Yukich planted his first grape vines in West Auckland in 1934. His sons Mate and Frank established Montana Wines in 1961.](https://mangatangihistorical.co.nz/montana-wines/)
+
+Note: Ivan planted the vineyard. His sons founded the company. The brand is now Brancott Estate under Pernod Ricard.
+
+<a id="yukich-ivan"></a>
+
 ### Theo, Alex and Marcel Giesen: Giesen
 
 Born: Germany. Arrived: The three brothers arrived from Germany in 1979..
@@ -168,49 +279,21 @@ Note: First vintage 1984.
 
 <a id="giesen-brothers"></a>
 
-### John Griffin: Griffin's
+### Ralph Highnam: Volpara Health
 
-Born: Godshill, Isle of Wight, England. Arrived: Sailed on the Ashmore with his family and settled in Nelson..
-
-News:
-- The Press, 2025-08-15: [Our Kiwi Home: Sweet success - the family behind Griffin's biscuits](https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits)
-
-Evidence:
-- The Press, 2025-08-15: [Born in 1812 in the village of Godshill on the Isle of Wight. In 1854 he and his family sailed for New Zealand and settled in Nelson.](https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits)
-- Griffin's, 150 Years pictorial timeline (Scoop): [The flour and cocoa mill opened for business in Alton Street, Nelson in 1864.](https://img.scoop.co.nz/media/pdfs/1405/150_Years_of_Griffins__Pictorial_Timeline.pdf)
-
-<a id="griffin-john"></a>
-
-### James Henry Whittaker: Whittaker's
-
-Born: Manchester, England. Arrived: Left London on the Valetta and settled in Christchurch..
+Born: England. Arrived: Grew up in England and worked at Oxford before moving to Wellington. Arrival year not established..
 
 News:
-- Crumbwire: [125 years of Whittaker's chocolate: looking back, moving forward](https://crumbwire.com/features/125-years-of-whittakers-chocolate-looking-back-moving-forward/)
+- AuntMinnie: [Volpara makes top leadership changes](https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15630790/volpara-makes-top-leadership-changes)
+- Newstalk ZB: [Wellingtonian of the Year Ralph Highnam joins Nick Mills in the studio](https://www.newstalkzb.co.nz/on-air/wellington/wellington-mornings-with-nick-mills/audio/wellingtonian-of-the-year-ralph-highnam-joins-nick-mills-in-the-studio/)
 
 Evidence:
-- Friends of Karori Cemetery, 2024-09-11: [Born in Manchester, England in 1868. He and his wife left London on the Valetta in 1890 and settled in Christchurch, where he began making chocolate.](https://friendsofkaroricemetery.co.nz/james-henry-whittaker/)
+- Microsoft News, 2022-06-27: [Highnam grew up in working class England in the 1970s and studied at Oxford before founding Volpara in New Zealand.](https://news.microsoft.com/en-au/features/everyday-innovators-ralph-highnam/)
+- What Founders Want: [By 2009 Highnam was in Wellington and re-formed an alliance with Oxford, Nijmegen and Toronto researchers to build Volpara.](https://whatfounderswant.com/expert-editions/from-science-to-seed/volpara-health)
 
-Note: Whittaker's is still family-owned.
+Note: Volpara listed on the ASX in 2016 and was acquired by Lunit in 2024.
 
-<a id="whittaker-james-henry"></a>
-
-### Andrew Clarke Caughey: Smith & Caughey's
-
-Born: Portaferry, County Down, Ireland. Arrived: Emigrated to New Zealand in 1879 for health reasons..
-Co-founders: Marianne Smith, William Henry Smith.
-
-News:
-- NZ Herald (archive reprint): [From the archives: the history behind Smith & Caughey's](https://nz.nda.news/smith-and-caughey-st_590649/news/from-the-archives-the-history-behind-smith-amp-caugheys-sn_5870409/)
-- Local Matters: [Smith Caughey connection](https://www.localmatters.co.nz/opinion/smith-caughey-connection/)
-
-Evidence:
-- A Dictionary of Methodism in Britain and Ireland: [Born at Portaferry, Co. Down, Ireland in 1849. Decided to emigrate to New Zealand in 1879 and, with his brother-in-law W. H. Smith, founded Smith and Caughey.](https://dmbi.online/index.php?do=app.entry&id=557)
-- Wikipedia: [Established in 1880 by Ulster-born Marianne Smith as a drapers and millinery shop.](https://en.wikipedia.org/wiki/Smith_%26_Caughey%27s)
-
-Note: Store closed in June 2025. Sources differ on which family member is credited as founder; all named founders were born in Ireland.
-
-<a id="caughey-smith"></a>
+<a id="highnam-ralph"></a>
 
 ### Shama Sukul Lee: Sunfed
 
@@ -274,17 +357,19 @@ The entrepreneurship rate for most migrant and ethnic groups sits below the Pāk
 
 ## Exclusions
 
-These people are often described as immigrant founders. They were born in New Zealand, so they are excluded.
+These people are often described as immigrant founders. They do not meet the rule.
 
 - **Woolf Fisher**, co-founder of Fisher & Paykel. Born in Wellington. His father Michael was a Jewish immigrant from Shumsk, now in Ukraine.
 - **Sir George Fistonich**, founder of Villa Maria. Born in New Zealand in 1939 to parents from Hvar, Croatia.
 - **Sam Morgan** (Trade Me), **Rod Drury** (Xero) and **Peter Beck** (Rocket Lab). All New Zealand-born.
+- **Tex Edwards**, founder of 2degrees. Could not be verified as born overseas. 2degrees describes him as "a Kiwi", and he attended Howick College from 1976 to 1980.
 
 ## Known gaps
 
 - The Entrepreneur Work Visa was closed to new applicants in August 2025. It had low application numbers and high decline rates, so it is not a good source of founder counts.
 - No official dataset records the birthplace of company founders. Stats NZ business demography and the Companies Registry do not capture it.
-- Several well-known candidates remain unverified: Todd Corporation, Hannahs, Kirkcaldie & Stains, Speight's, Fulton Hogan, 2degrees and Volpara. They are not in the dataset because the birthplace could not be confirmed.
+- **Fulton Hogan** is not included. Jules Fulton and Bob Hogan founded the company in Otago in 1933. No source found states where either man was born.
+- Several entries have `null` arrival years. Speight, Todd, Highnam and Yukich fall into this group.
 - Paywalled articles are cited by headline and URL. Some bodies were not readable during verification.
 - Some publishers block automated requests. A 403 or a dropped connection from a script does not mean the link is dead. The URLs below were opened and read during verification, sometimes through a text proxy.
 - `scripts/validate.py` checks structure, not reachability. Link checking lives outside CI because too many NZ news sites reject bots.

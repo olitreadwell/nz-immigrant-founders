@@ -1,48 +1,118 @@
 {
   "meta": {
     "title": "Immigrant-founded New Zealand companies",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "updated": "2026-10-22",
-    "count": 14
+    "count": 19
   },
   "entries": [
     {
-      "id": "fletcher-james",
-      "person": "James Fletcher",
-      "co_founders": [],
-      "birth_place": "Kirkintilloch, Scotland",
+      "id": "kirkcaldie-john",
+      "person": "John Kirkcaldie",
+      "co_founders": [
+        "Robert Stains"
+      ],
+      "birth_place": "Fifeshire, Scotland",
       "birth_country": "United Kingdom",
-      "birth_year": 1886,
-      "arrival_year": 1908,
-      "arrival_note": "Arrived at Port Chalmers in October 1908 with twelve pounds.",
-      "company": "Fletcher Construction",
-      "company_founded_year": 1909,
-      "sector": "construction",
-      "company_status": "listed",
-      "confidence": "high",
+      "birth_year": 1838,
+      "arrival_year": 1861,
+      "arrival_note": "Emigrated to Australia in 1861, met Robert Stains in Sydney, and opened the Wellington store in 1863.",
+      "company": "Kirkcaldie & Stains",
+      "company_founded_year": 1863,
+      "sector": "retail",
+      "company_status": "defunct",
+      "confidence": "medium",
       "evidence": [
         {
-          "claim": "Born 29 March 1886 at Kirkintilloch; sailed from Glasgow and arrived at Port Chalmers in October 1908.",
-          "source": "Newswire",
-          "date": "2026-07-09",
-          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
-        },
-        {
-          "claim": "First contract signed 1 June 1909; the firm became Fletcher Brothers in 1912.",
-          "source": "Newswire",
-          "date": "2026-07-09",
-          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+          "claim": "Born in 1838 in Fifeshire, Scotland. In 1861 he emigrated to Australia, where he met Englishman Robert Stains in Sydney. They opened the first store in Wellington in 1863.",
+          "source": "Genealogy Investigations",
+          "date": "2022-06-11",
+          "url": "https://genealogyinvestigations.co.nz/blog/farewell-to-a-wellington-icon"
         }
       ],
       "news": [
         {
-          "outlet": "Newswire",
-          "date": "2026-07-09",
-          "title": "James Fletcher, the Scottish carpenter who built twentieth-century New Zealand",
-          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+          "outlet": "RNZ",
+          "date": "2016-01-16",
+          "title": "Wellington icon closes after 150 years",
+          "url": "https://www.rnz.co.nz/news/business/294210/wellington-icon-closes-after-150-years"
         }
       ],
-      "notes": "Fletcher Building is the listed successor. The company built about half of the first Labour government's state houses."
+      "notes": "Robert Stains was born in England. The store closed in January 2016."
+    },
+    {
+      "id": "griffin-john",
+      "person": "John Griffin",
+      "co_founders": [],
+      "birth_place": "Godshill, Isle of Wight, England",
+      "birth_country": "United Kingdom",
+      "birth_year": 1812,
+      "arrival_year": 1854,
+      "arrival_note": "Sailed on the Ashmore with his family and settled in Nelson.",
+      "company": "Griffin's",
+      "company_founded_year": 1864,
+      "sector": "food",
+      "company_status": "sold",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in 1812 in the village of Godshill on the Isle of Wight. In 1854 he and his family sailed for New Zealand and settled in Nelson.",
+          "source": "The Press",
+          "date": "2025-08-15",
+          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
+        },
+        {
+          "claim": "The flour and cocoa mill opened for business in Alton Street, Nelson in 1864.",
+          "source": "Griffin's, 150 Years pictorial timeline (Scoop)",
+          "url": "https://img.scoop.co.nz/media/pdfs/1405/150_Years_of_Griffins__Pictorial_Timeline.pdf"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "The Press",
+          "date": "2025-08-15",
+          "title": "Our Kiwi Home: Sweet success - the family behind Griffin's biscuits",
+          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "hannah-robert",
+      "person": "Robert Hannah",
+      "co_founders": [],
+      "birth_place": "Ballymoney, County Antrim, Ireland",
+      "birth_country": "Ireland",
+      "birth_year": 1845,
+      "arrival_year": 1866,
+      "arrival_note": "Emigrated to Australia in 1863 and had moved to New Zealand by 1866.",
+      "company": "Hannahs",
+      "company_founded_year": 1868,
+      "sector": "retail",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born 10 September 1845 on the Hanna family farm near Ballymoney. Emigrated to Australia in 1863 and had moved to New Zealand by 1866. Opened his first boot shop at Charleston in January 1868.",
+          "source": "Ballymoney Museum / Ballymoney Ancestry",
+          "url": "http://www.ballymoneyancestry.com/robert-hannah.aspx"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Fashionz",
+          "date": "2018-02-12",
+          "title": "Hannahs celebrates 150 years in business",
+          "url": "https://www.fashionz.co.nz/hannahs-celebrates-150-years-business/"
+        },
+        {
+          "outlet": "NZ Business",
+          "date": "2018-01-31",
+          "title": "Hannahs celebrates 150 years",
+          "url": "https://nzbusiness.co.nz/business/news/hannahs-celebrates-150-years"
+        }
+      ],
+      "notes": "The family record spells the name Hanna. The business traded as Robert Hannah and Company."
     },
     {
       "id": "hallenstein-bendix",
@@ -85,6 +155,202 @@
         }
       ],
       "notes": "Also founded the D.I.C. department store in Dunedin in 1884."
+    },
+    {
+      "id": "speight-james",
+      "person": "James Speight",
+      "co_founders": [
+        "Charles Greenslade",
+        "William Dawson"
+      ],
+      "birth_place": "Wakefield, Yorkshire, England",
+      "birth_country": "United Kingdom",
+      "birth_year": 1834,
+      "arrival_year": null,
+      "arrival_note": "Arrival year not established. He worked at Wellpark Brewery in Dunedin before 1876.",
+      "company": "Speight's",
+      "company_founded_year": 1876,
+      "sector": "beer",
+      "company_status": "sold",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "James Speight was born in Wakefield, Yorkshire in 1834. Charles Greenslade was born in 1843 in Devon, England. William Dawson was born in 1852 in Aberdeen, Scotland.",
+          "source": "History of Aotearoa New Zealand Podcast, episode 88 transcript",
+          "url": "https://historyaotearoa.com/wp-content/uploads/2022/06/episode-88.pdf"
+        },
+        {
+          "claim": "The founders left Wellpark Brewery and leased the Rattray Street site from 1 May 1876.",
+          "source": "History of Aotearoa New Zealand Podcast, episode 88 transcript",
+          "url": "https://historyaotearoa.com/wp-content/uploads/2022/06/episode-88.pdf"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Inside Retail",
+          "date": "2026-05-25",
+          "title": "Kiwi brewing icon Speight's marks 150 years in business",
+          "url": "https://insideretail.co.nz/2026/05/25/kiwi-brewing-icon-speights-marks-150-years-in-business/"
+        }
+      ],
+      "notes": "All three founders were born in Britain. Speight died in 1887, aged 53."
+    },
+    {
+      "id": "caughey-smith",
+      "person": "Andrew Clarke Caughey",
+      "co_founders": [
+        "Marianne Smith",
+        "William Henry Smith"
+      ],
+      "birth_place": "Portaferry, County Down, Ireland",
+      "birth_country": "Ireland",
+      "birth_year": 1849,
+      "arrival_year": 1879,
+      "arrival_note": "Emigrated to New Zealand in 1879 for health reasons.",
+      "company": "Smith & Caughey's",
+      "company_founded_year": 1880,
+      "sector": "retail",
+      "company_status": "defunct",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born at Portaferry, Co. Down, Ireland in 1849. Decided to emigrate to New Zealand in 1879 and, with his brother-in-law W. H. Smith, founded Smith and Caughey.",
+          "source": "A Dictionary of Methodism in Britain and Ireland",
+          "url": "https://dmbi.online/index.php?do=app.entry&id=557"
+        },
+        {
+          "claim": "Established in 1880 by Ulster-born Marianne Smith as a drapers and millinery shop.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Smith_%26_Caughey%27s"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald (archive reprint)",
+          "date": null,
+          "title": "From the archives: the history behind Smith & Caughey's",
+          "url": "https://nz.nda.news/smith-and-caughey-st_590649/news/from-the-archives-the-history-behind-smith-amp-caugheys-sn_5870409/"
+        },
+        {
+          "outlet": "Local Matters",
+          "date": null,
+          "title": "Smith Caughey connection",
+          "url": "https://www.localmatters.co.nz/opinion/smith-caughey-connection/"
+        }
+      ],
+      "notes": "Store closed in June 2025. Sources differ on which family member is credited as founder; all named founders were born in Ireland."
+    },
+    {
+      "id": "todd-charles",
+      "person": "Charles Todd",
+      "co_founders": [],
+      "birth_place": "Peebles, Scotland",
+      "birth_country": "United Kingdom",
+      "birth_year": 1868,
+      "arrival_year": null,
+      "arrival_note": "Described as a Scottish immigrant. Arrival year not established.",
+      "company": "Todd Corporation",
+      "company_founded_year": 1885,
+      "sector": "energy",
+      "company_status": "private",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "Todd began in 1885 when Scottish immigrant Charles Todd opened a fellmongery and wool scouring business in Heriot, Central Otago.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Todd_Corporation"
+        },
+        {
+          "claim": "Born 1868 at Peebles, died 1942 at Wellington.",
+          "source": "Biographies.net",
+          "url": "https://www.biographies.net/biography/charles-todd/m/0gg7ntw"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NBR",
+          "date": "2025-06-23",
+          "title": "Featured Rich Listers: Todd family",
+          "url": "https://www.nbr.co.nz/rich-list-2026/featured-rich-listers-todd-family/"
+        },
+        {
+          "outlet": "NZ Herald",
+          "date": null,
+          "title": "Inside the Todd empire",
+          "url": "https://www.nzherald.co.nz/business/companies/agribusiness/inside-the-todd-empire/ZZELW2JLG3ZCZ2RHXGF5GLD2UY/"
+        }
+      ],
+      "notes": "Todd is one of New Zealand's largest private companies."
+    },
+    {
+      "id": "whittaker-james-henry",
+      "person": "James Henry Whittaker",
+      "co_founders": [],
+      "birth_place": "Manchester, England",
+      "birth_country": "United Kingdom",
+      "birth_year": 1868,
+      "arrival_year": 1890,
+      "arrival_note": "Left London on the Valetta and settled in Christchurch.",
+      "company": "Whittaker's",
+      "company_founded_year": 1896,
+      "sector": "food",
+      "company_status": "private",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born in Manchester, England in 1868. He and his wife left London on the Valetta in 1890 and settled in Christchurch, where he began making chocolate.",
+          "source": "Friends of Karori Cemetery",
+          "date": "2024-09-11",
+          "url": "https://friendsofkaroricemetery.co.nz/james-henry-whittaker/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Crumbwire",
+          "date": null,
+          "title": "125 years of Whittaker's chocolate: looking back, moving forward",
+          "url": "https://crumbwire.com/features/125-years-of-whittakers-chocolate-looking-back-moving-forward/"
+        }
+      ],
+      "notes": "Whittaker's is still family-owned."
+    },
+    {
+      "id": "fletcher-james",
+      "person": "James Fletcher",
+      "co_founders": [],
+      "birth_place": "Kirkintilloch, Scotland",
+      "birth_country": "United Kingdom",
+      "birth_year": 1886,
+      "arrival_year": 1908,
+      "arrival_note": "Arrived at Port Chalmers in October 1908 with twelve pounds.",
+      "company": "Fletcher Construction",
+      "company_founded_year": 1909,
+      "sector": "construction",
+      "company_status": "listed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "claim": "Born 29 March 1886 at Kirkintilloch; sailed from Glasgow and arrived at Port Chalmers in October 1908.",
+          "source": "Newswire",
+          "date": "2026-07-09",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        },
+        {
+          "claim": "First contract signed 1 June 1909; the firm became Fletcher Brothers in 1912.",
+          "source": "Newswire",
+          "date": "2026-07-09",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "Newswire",
+          "date": "2026-07-09",
+          "title": "James Fletcher, the Scottish carpenter who built twentieth-century New Zealand",
+          "url": "https://newswire.co.nz/2026/07/james-fletcher-scottish-carpenter-twentieth-century-new-zealand/"
+        }
+      ],
+      "notes": "Fletcher Building is the listed successor. The company built about half of the first Labour government's state houses."
     },
     {
       "id": "laidlaw-robert",
@@ -217,40 +483,6 @@
       "notes": null
     },
     {
-      "id": "yukich-ivan",
-      "person": "Ivan Yukich",
-      "co_founders": [
-        "Mate Yukich",
-        "Frank Yukich"
-      ],
-      "birth_place": "Croatia",
-      "birth_country": "Croatia",
-      "birth_year": null,
-      "arrival_year": null,
-      "arrival_note": "Described in local histories as a Croatian immigrant. Arrival year not established.",
-      "company": "Montana Wines",
-      "company_founded_year": 1961,
-      "sector": "wine",
-      "company_status": "sold",
-      "confidence": "medium",
-      "evidence": [
-        {
-          "claim": "Croatian immigrant Ivan Yukich planted his first grape vines in West Auckland in 1934. His sons Mate and Frank established Montana Wines in 1961.",
-          "source": "Mangatangi Historical Group",
-          "url": "https://mangatangihistorical.co.nz/montana-wines/"
-        }
-      ],
-      "news": [
-        {
-          "outlet": "NZ Herald",
-          "date": "2015-03-27",
-          "title": "Auckland's 175th anniversary: The Dalmatians and their wine",
-          "url": "https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/"
-        }
-      ],
-      "notes": "Ivan planted the vineyard. His sons founded the company. The brand is now Brancott Estate under Pernod Ricard."
-    },
-    {
       "id": "delegat-nikola",
       "person": "Nikola Delegat",
       "co_founders": [
@@ -291,6 +523,40 @@
       "notes": "Delegat Group listed on the NZX in 2006. Oyster Bay sells about 3.7 million cases a year."
     },
     {
+      "id": "yukich-ivan",
+      "person": "Ivan Yukich",
+      "co_founders": [
+        "Mate Yukich",
+        "Frank Yukich"
+      ],
+      "birth_place": "Croatia",
+      "birth_country": "Croatia",
+      "birth_year": null,
+      "arrival_year": null,
+      "arrival_note": "Described in local histories as a Croatian immigrant. Arrival year not established.",
+      "company": "Montana Wines",
+      "company_founded_year": 1961,
+      "sector": "wine",
+      "company_status": "sold",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "claim": "Croatian immigrant Ivan Yukich planted his first grape vines in West Auckland in 1934. His sons Mate and Frank established Montana Wines in 1961.",
+          "source": "Mangatangi Historical Group",
+          "url": "https://mangatangihistorical.co.nz/montana-wines/"
+        }
+      ],
+      "news": [
+        {
+          "outlet": "NZ Herald",
+          "date": "2015-03-27",
+          "title": "Auckland's 175th anniversary: The Dalmatians and their wine",
+          "url": "https://www.nzherald.co.nz/nz/aucklands-175th-anniversary-the-dalmatians-and-their-wine/EGXUL2VDCQJYXIQM4LS2WXBJRI/"
+        }
+      ],
+      "notes": "Ivan planted the vineyard. His sons founded the company. The brand is now Brancott Estate under Pernod Ricard."
+    },
+    {
       "id": "giesen-brothers",
       "person": "Theo, Alex and Marcel Giesen",
       "co_founders": [],
@@ -328,118 +594,47 @@
       "notes": "First vintage 1984."
     },
     {
-      "id": "griffin-john",
-      "person": "John Griffin",
+      "id": "highnam-ralph",
+      "person": "Ralph Highnam",
       "co_founders": [],
-      "birth_place": "Godshill, Isle of Wight, England",
+      "birth_place": "England",
       "birth_country": "United Kingdom",
-      "birth_year": 1812,
-      "arrival_year": 1854,
-      "arrival_note": "Sailed on the Ashmore with his family and settled in Nelson.",
-      "company": "Griffin's",
-      "company_founded_year": 1864,
-      "sector": "food",
+      "birth_year": null,
+      "arrival_year": null,
+      "arrival_note": "Grew up in England and worked at Oxford before moving to Wellington. Arrival year not established.",
+      "company": "Volpara Health",
+      "company_founded_year": 2009,
+      "sector": "medtech",
       "company_status": "sold",
       "confidence": "high",
       "evidence": [
         {
-          "claim": "Born in 1812 in the village of Godshill on the Isle of Wight. In 1854 he and his family sailed for New Zealand and settled in Nelson.",
-          "source": "The Press",
-          "date": "2025-08-15",
-          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
+          "claim": "Highnam grew up in working class England in the 1970s and studied at Oxford before founding Volpara in New Zealand.",
+          "source": "Microsoft News",
+          "date": "2022-06-27",
+          "url": "https://news.microsoft.com/en-au/features/everyday-innovators-ralph-highnam/"
         },
         {
-          "claim": "The flour and cocoa mill opened for business in Alton Street, Nelson in 1864.",
-          "source": "Griffin's, 150 Years pictorial timeline (Scoop)",
-          "url": "https://img.scoop.co.nz/media/pdfs/1405/150_Years_of_Griffins__Pictorial_Timeline.pdf"
+          "claim": "By 2009 Highnam was in Wellington and re-formed an alliance with Oxford, Nijmegen and Toronto researchers to build Volpara.",
+          "source": "What Founders Want",
+          "url": "https://whatfounderswant.com/expert-editions/from-science-to-seed/volpara-health"
         }
       ],
       "news": [
         {
-          "outlet": "The Press",
-          "date": "2025-08-15",
-          "title": "Our Kiwi Home: Sweet success - the family behind Griffin's biscuits",
-          "url": "https://www.thepress.co.nz/nz-news/360766945/our-kiwi-home-sweet-success-family-behind-griffins-biscuits"
-        }
-      ],
-      "notes": null
-    },
-    {
-      "id": "whittaker-james-henry",
-      "person": "James Henry Whittaker",
-      "co_founders": [],
-      "birth_place": "Manchester, England",
-      "birth_country": "United Kingdom",
-      "birth_year": 1868,
-      "arrival_year": 1890,
-      "arrival_note": "Left London on the Valetta and settled in Christchurch.",
-      "company": "Whittaker's",
-      "company_founded_year": 1896,
-      "sector": "food",
-      "company_status": "private",
-      "confidence": "high",
-      "evidence": [
-        {
-          "claim": "Born in Manchester, England in 1868. He and his wife left London on the Valetta in 1890 and settled in Christchurch, where he began making chocolate.",
-          "source": "Friends of Karori Cemetery",
-          "date": "2024-09-11",
-          "url": "https://friendsofkaroricemetery.co.nz/james-henry-whittaker/"
-        }
-      ],
-      "news": [
-        {
-          "outlet": "Crumbwire",
+          "outlet": "AuntMinnie",
           "date": null,
-          "title": "125 years of Whittaker's chocolate: looking back, moving forward",
-          "url": "https://crumbwire.com/features/125-years-of-whittakers-chocolate-looking-back-moving-forward/"
-        }
-      ],
-      "notes": "Whittaker's is still family-owned."
-    },
-    {
-      "id": "caughey-smith",
-      "person": "Andrew Clarke Caughey",
-      "co_founders": [
-        "Marianne Smith",
-        "William Henry Smith"
-      ],
-      "birth_place": "Portaferry, County Down, Ireland",
-      "birth_country": "Ireland",
-      "birth_year": 1849,
-      "arrival_year": 1879,
-      "arrival_note": "Emigrated to New Zealand in 1879 for health reasons.",
-      "company": "Smith & Caughey's",
-      "company_founded_year": 1880,
-      "sector": "retail",
-      "company_status": "defunct",
-      "confidence": "high",
-      "evidence": [
-        {
-          "claim": "Born at Portaferry, Co. Down, Ireland in 1849. Decided to emigrate to New Zealand in 1879 and, with his brother-in-law W. H. Smith, founded Smith and Caughey.",
-          "source": "A Dictionary of Methodism in Britain and Ireland",
-          "url": "https://dmbi.online/index.php?do=app.entry&id=557"
+          "title": "Volpara makes top leadership changes",
+          "url": "https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15630790/volpara-makes-top-leadership-changes"
         },
         {
-          "claim": "Established in 1880 by Ulster-born Marianne Smith as a drapers and millinery shop.",
-          "source": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Smith_%26_Caughey%27s"
+          "outlet": "Newstalk ZB",
+          "date": null,
+          "title": "Wellingtonian of the Year Ralph Highnam joins Nick Mills in the studio",
+          "url": "https://www.newstalkzb.co.nz/on-air/wellington/wellington-mornings-with-nick-mills/audio/wellingtonian-of-the-year-ralph-highnam-joins-nick-mills-in-the-studio/"
         }
       ],
-      "news": [
-        {
-          "outlet": "NZ Herald (archive reprint)",
-          "date": null,
-          "title": "From the archives: the history behind Smith & Caughey's",
-          "url": "https://nz.nda.news/smith-and-caughey-st_590649/news/from-the-archives-the-history-behind-smith-amp-caugheys-sn_5870409/"
-        },
-        {
-          "outlet": "Local Matters",
-          "date": null,
-          "title": "Smith Caughey connection",
-          "url": "https://www.localmatters.co.nz/opinion/smith-caughey-connection/"
-        }
-      ],
-      "notes": "Store closed in June 2025. Sources differ on which family member is credited as founder; all named founders were born in Ireland."
+      "notes": "Volpara listed on the ASX in 2016 and was acquired by Lunit in 2024."
     },
     {
       "id": "lee-shama-sukul",

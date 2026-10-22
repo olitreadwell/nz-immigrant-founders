@@ -1,15 +1,20 @@
 id,person,birth_place,birth_country,birth_year,arrival_year,company,company_founded_year,sector,company_status,confidence,news_count
-fletcher-james,James Fletcher,"Kirkintilloch, Scotland",United Kingdom,1886,1908,Fletcher Construction,1909,construction,listed,high,1
+kirkcaldie-john,John Kirkcaldie,"Fifeshire, Scotland",United Kingdom,1838,1861,Kirkcaldie & Stains,1863,retail,defunct,medium,1
+griffin-john,John Griffin,"Godshill, Isle of Wight, England",United Kingdom,1812,1854,Griffin's,1864,food,sold,high,1
+hannah-robert,Robert Hannah,"Ballymoney, County Antrim, Ireland",Ireland,1845,1866,Hannahs,1868,retail,private,high,2
 hallenstein-bendix,Bendix Hallenstein,"Brunswick, Germany",Germany,1835,1863,Hallensteins,1876,retail,listed,high,2
+speight-james,James Speight,"Wakefield, Yorkshire, England",United Kingdom,1834,,Speight's,1876,beer,sold,medium,1
+caughey-smith,Andrew Clarke Caughey,"Portaferry, County Down, Ireland",Ireland,1849,1879,Smith & Caughey's,1880,retail,defunct,high,2
+todd-charles,Charles Todd,"Peebles, Scotland",United Kingdom,1868,,Todd Corporation,1885,energy,private,medium,2
+whittaker-james-henry,James Henry Whittaker,"Manchester, England",United Kingdom,1868,1890,Whittaker's,1896,food,private,high,1
+fletcher-james,James Fletcher,"Kirkintilloch, Scotland",United Kingdom,1886,1908,Fletcher Construction,1909,construction,listed,high,1
 laidlaw-robert,Robert Laidlaw,Scotland,United Kingdom,1885,,Farmers Trading Company,1909,retail,private,medium,0
 babich-josip,Josip Babich,"Runović, Dalmatia (then Austria-Hungary, now Croatia)",Croatia,1895,1910,Babich Wines,1916,wine,private,high,1
 selak-marino,Marino Selak,Croatia,Croatia,,1906,Selaks,1934,wine,sold,high,1
 nobilo-nikola,Nikola Nobilo,"Lumbarda, Korčula, Croatia",Croatia,1913,1937,Nobilo Wines,1943,wine,sold,high,2
-yukich-ivan,Ivan Yukich,Croatia,Croatia,,,Montana Wines,1961,wine,sold,medium,1
 delegat-nikola,Nikola Delegat,Croatia (then Yugoslavia),Croatia,,1938,Delegat,1947,wine,listed,high,2
+yukich-ivan,Ivan Yukich,Croatia,Croatia,,,Montana Wines,1961,wine,sold,medium,1
 giesen-brothers,"Theo, Alex and Marcel Giesen",Germany,Germany,,1979,Giesen,1981,wine,private,high,2
-griffin-john,John Griffin,"Godshill, Isle of Wight, England",United Kingdom,1812,1854,Griffin's,1864,food,sold,high,1
-whittaker-james-henry,James Henry Whittaker,"Manchester, England",United Kingdom,1868,1890,Whittaker's,1896,food,private,high,1
-caughey-smith,Andrew Clarke Caughey,"Portaferry, County Down, Ireland",Ireland,1849,1879,Smith & Caughey's,1880,retail,defunct,high,2
+highnam-ralph,Ralph Highnam,England,United Kingdom,,,Volpara Health,2009,medtech,sold,high,2
 lee-shama-sukul,Shama Sukul Lee,Fiji,Fiji,,,Sunfed,2015,foodtech,private,high,1
 wink-jeroen,Jeroen Wink,Netherlands,Netherlands,,,Dawn Aerospace,2017,aerospace,private,medium,2
